@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
     
-    <category name="BIGFOOT HD" >
+    <category name="ORCA 2 HD" >
+    
+        <wallpaper
+            author="bigfoot"
+            url="http://drewgaren.com/walls/2/abstract_spheres.jpg" />
+
+        <wallpaper
+            author="bigfoot"
+            url="http://drewgaren.com/walls/2/autumn.jpg" />
+
+        <wallpaper
+            author="bigfoot"
+            url="http://drewgaren.com/walls/2/blue_bokeh.jpg" />
+
+        <wallpaper
+            author="bigfoot"
+            url="http://drewgaren.com/walls/2/blue_flashlight.jpg" />
+
+        <wallpaper
+            author="bigfoot"
+            url="http://drewgaren.com/walls/2/eggsun.jpg" />
+
+        <wallpaper
+            author="bigfoot"
+            url="http://drewgaren.com/walls/2/honeycomb_n4_black.jpg" />
+
+        <wallpaper
+            author="bigfoot"
+            url="http://drewgaren.com/walls/2/squren_design_may.jpg" />
+
+        <wallpaper
+            author="bigfoot"
+            url="http://drewgaren.com/walls/2/squren_design_may1.jpg" />
+
+        <wallpaper
+            author="bigfoot"
+            url="http://drewgaren.com/walls/2/squren_design_may2.jpg" />
+
+        <wallpaper
+            author="bigfoot"
+            url="http://drewgaren.com/walls/2/squren_may_design.jpg" />
+
+        <wallpaper
+            author="bigfoot"
+            url="http://drewgaren.com/walls/2/squren_triangles_may.jpg" />
+    </category>
+
+<category name="BIGFOOT HD" >
     
         <wallpaper
             author="bigfoot"
@@ -84,7 +131,7 @@
             url="http://drewgaren.com/walls/bigfoot/trees.jpg" />
     </category>
     
-    <category name="Squren" >
+    <category name="SQUREN" >
 
         <wallpaper
             author="robgza"
@@ -115,7 +162,7 @@
             url="http://drewgaren.com/walls/squren/squren_march_madness3.jpg" />
     </category>
 
-    <category name="Newest" >
+    <category name="NEWEST" >
 
         <wallpaper
             author="robgza"
