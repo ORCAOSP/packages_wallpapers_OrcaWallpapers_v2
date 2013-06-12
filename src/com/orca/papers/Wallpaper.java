@@ -1,5 +1,5 @@
 
-package com.orca.wallpaper;
+package com.orca.papers;
 
 public class Wallpaper {
 

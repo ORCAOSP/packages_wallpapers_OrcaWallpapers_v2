@@ -1,5 +1,5 @@
 
-package com.orca.wallpaper;
+package com.orca.papers;
 
 import android.content.Context;
 import android.util.AttributeSet;
