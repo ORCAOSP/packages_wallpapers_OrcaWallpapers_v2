@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
     
+    <category name="ORCA 3 PREVIEW" >
+    
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/default_wallpaper.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/dog.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/space_dog.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/smiley.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/back_to_the_future.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/cyan_light_nexus_hd.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/fish.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/blue_crystals.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/3d_flowers.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/3d_flowers_hd.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/squren_magda_co.jpg" />
+            
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/squren_design_may.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/w2/squren_design_mayday.jpg" />             
+    </category>
+    
     <category name="ORCA WAVE HD" >
     
         <wallpaper
