@@ -1,394 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
     
-    <category name="ORCA 3 PREVIEW" >
+    <category name="ORCA 3.0 SHINY" >
     
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/default_wallpaper.jpg" />
+            url="http://orcaproject.co/orcawalls/3d_flowers_hd.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/dog.jpg" />
+            url="http://orcaproject.co/orcawalls/3d_flowers.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/space_dog.jpg" />
+            url="http://orcaproject.co/orcawalls/cyan_light_nexus_hd.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/smiley.jpg" />
+            url="http://orcaproject.co/orcawalls/fish.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/back_to_the_future.jpg" />
+            url="http://orcaproject.co/orcawalls/squren_design_may_2.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/cyan_light_nexus_hd.jpg" />
+            url="http://orcaproject.co/orcawalls/squren_design_may.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/fish.jpg" />
+            url="http://orcaproject.co/orcawalls/squren_design_mayday.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/blue_crystals.jpg" />
+            url="http://orcaproject.co/orcawalls/squren_magda_co.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/3d_flowers.jpg" />
+            url="http://orcaproject.co/orcawalls/squren_may_design.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/3d_flowers_hd.jpg" />
+            url="http://orcaproject.co/orcawalls/wallpaper_6.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/squren_magda_co.jpg" />
+            url="http://orcaproject.co/orcawalls/wallpaper_8.jpg" />
             
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/squren_design_may.jpg" />
+            url="http://orcaproject.co/orcawalls/wallpaper_12.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/w2/squren_design_mayday.jpg" />             
+            url="http://orcaproject.co/orcawalls/black_nexus.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orcawalls/come_out_in_the_wash.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orcawalls/eiffel_tower.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orcawalls/kitty_kitty.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orcawalls/lines.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orcawalls/pasley_wood.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orcawalls/pasley.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orcawalls/quilt.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orcawalls/raise.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orcawalls/white_rocks.jpg" />                         
     </category>
     
-    <category name="ORCA WAVE HD" >
-    
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/1.jpg" />
+    <category name="NEXUS" >
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/walls/2.jpg" />
+            url="http://orcaproject.co/orcawalls/future_nexus_hd.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/walls/3.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/4.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/5.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/6.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/7.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/8.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/9.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/10.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/11.jpg" />
+            url="http://orcaproject.co/orcawalls/future_nexus.jpg" />
             
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/walls/12.jpg" />
+            url="http://orcaproject.co/orcawalls/nexus_4_dotted.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/walls/13.jpg" />
+            url="http://orcaproject.co/orcawalls/nexus_4_tiles.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/walls/14.jpg" />
+            url="http://orcaproject.co/orcawalls/nexus_4.jpg" />
             
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/walls/15.jpg" />
+            url="http://orcaproject.co/orcawalls/nexus_7_ii_wallpaper.jpg" />
             
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/walls/16.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/17.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/18.jpg" />
-            
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/19.jpg" />
-            
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/20.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/21.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/22.jpg" />
-            
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/23.jpg" />
-            
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/24.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/25.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/26.jpg" />
-            
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/27.jpg" />
-            
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/28.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/29.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/30.jpg" />
-            
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/31.jpg" />
-            
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/32.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/33.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/34.jpg" />
-            
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/35.jpg" />
-            
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/36.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/37.jpg" />
-
-        <wallpaper
-            author="orca"
-            url="http://orcaproject.co/walls/38.jpg" />             
-    </category>
-
-    <category name="ORCA HD" >
-    
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/2/abstract_spheres.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/2/autumn.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/2/blue_bokeh.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/2/blue_flashlight.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/2/eggsun.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/2/honeycomb_n4_black.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/2/squren_design_may.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/2/squren_design_may1.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/2/squren_design_may2.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/2/squren_may_design.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/2/squren_triangles_may.jpg" />
-    </category>
-
-<category name="BIGFOOT HD" >
-    
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_0.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_1.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_2.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_3.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_4.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_5.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_6.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_6.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_7.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_8.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_9.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_10.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_11.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_12.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_13.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/big2/wallpaper_14.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/bigfoot/spectrum.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/bigfoot/wallpaper_18.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/bigfoot/summer_2013_paper.jpg" />
-
-        <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/bigfoot/trees.jpg" />
-    </category>
-    
-    <category name="SQUREN" >
-
-        <wallpaper
-            author="robgza"
-            url="http://drewgaren.com/walls/squren/squren_design.jpg" />
-
-        <wallpaper
-            author="robgza"
-            url="http://drewgaren.com/walls/squren/squren_design2.jpg" />
-
-        <wallpaper
-            author="robgza"
-            url="http://drewgaren.com/walls/squren/squren_design3.jpg" />
-
-        <wallpaper
-            author="robgza"
-            url="http://drewgaren.com/walls/squren/squren_march_madness.jpg" />
-
-        <wallpaper
-            author="robgza"
-            url="http://drewgaren.com/walls/squren/squren_march_madness1.jpg" />
-
-        <wallpaper
-            author="robgza"
-            url="http://drewgaren.com/walls/squren/squren_march_madness2.jpg" />
-            
-        <wallpaper
-            author="robgza"
-            url="http://drewgaren.com/walls/squren/squren_march_madness3.jpg" />
+            url="http://orcaproject.co/orcawalls/white_nexus4_dots_hd.jpg" />
     </category>
 
     <category name="NEWEST" >
 
         <wallpaper
-            author="robgza"
-            url="http://drewgaren.com/walls/squren/squren_march_madness3.jpg" />
+            author="orca"
+            url="http://orcaproject.co/orcawalls/kitty_kitty.jpg" />
 
         <wallpaper
-            author="robgza"
-            url="http://drewgaren.com/walls/squren/squren_design.jpg" />
+            author="orca"
+            url="http://orcaproject.co/orcawalls/pasley.jpg" />
 
         <wallpaper
-            author="bigfoot"
-            url="http://drewgaren.com/walls/bigfoot/sensa_1.jpg" />
+            author="orca"
+            url="http://orcaproject.co/orcawalls/white_rocks.jpg" />
             
         <wallpaper
-            author="beans"
-            url="http://drewgaren.com/walls/orca/03181_candybean_1920x1080.jpg" />
+            author="orca"
+            url="http://orcaproject.co/orcawalls/lines.jpg" />
     </category>
 
 </wallpapers>
