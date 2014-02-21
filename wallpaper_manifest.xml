@@ -1,7 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wallpapers>
     
-    <category name="ORCA 3.0 SHINY" >
+    <category name="ORCA 4" >
+    
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/3d_hexagons.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/dew.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/geometry.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/nox_neon.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/power.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/queen.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/squren_series.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/squren_series(1).jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/squren_series(2).jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/squren_series(3).jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/squren_series(4).jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/squren_series(5).jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/squren_series(7).jpg" />
+            
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/squren_series(8).jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/squren_series(9).jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/squren_series(10).jpg" />  
+            
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/vectr_s4.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/wild_pattern.jpg" />
+
+        <wallpaper
+            author="orca"
+            url="http://orcaproject.co/orca4/default_wallpaper.jpg" />  
+    </category>
+    
+    <category name="ORCA 3.0" >
     
         <wallpaper
             author="orca"
@@ -127,19 +206,19 @@
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/orcawalls/kitty_kitty.jpg" />
+            url="http://orcaproject.co/orca4/nox_neon.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/orcawalls/pasley.jpg" />
+            url="http://orcaproject.co/orca4/geometry.jpg" />
 
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/orcawalls/white_rocks.jpg" />
+            url="http://orcaproject.co/orca4/squren_series.jpg" />
             
         <wallpaper
             author="orca"
-            url="http://orcaproject.co/orcawalls/lines.jpg" />
+            url="http://orcaproject.co/orca4/queen.jpg" />
     </category>
 
 </wallpapers>
